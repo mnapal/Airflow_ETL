@@ -1,4 +1,4 @@
-# ETL yFinance - Obtiene los datos de una accion desde yFinance y lo almacena en Redshift
+# ETL yFinance - Obtiene los datos de una acción financiera desde yFinance y lo almacena en Redshift
 Utiliza Airflow como orquestador del proceso, Spark para procesar los datos y Redshift como Data Warehouse.
 
 
